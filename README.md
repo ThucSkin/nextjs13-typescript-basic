@@ -1,13 +1,16 @@
 ## Các bước cần làm sau khi clone source code:
+
 ### 1. Cài đặt thư viện: npm i
-### 2. Chạy project: npm run dev   
 
+### 2. Chạy project: npm run dev
 
 &nbsp;
-## Về tác giả: 
-### - Author Hỏi Dân IT :  https://www.youtube.com/@hoidanit
+
+## Về tác giả:
+
+### - Author ThucSkin : https://www.youtube.com/@thucskin202
+
 &nbsp;
-### - Xem full series  Tự Học Next.JS Cơ Bản (với React và TypeScript) tại đây: https://www.youtube.com/playlist?list=PLncHg6Kn2JT6zw4JiFOE1z90ghnyrFl5B
 &nbsp;
 &nbsp;
 &nbsp;
