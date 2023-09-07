@@ -51,7 +51,7 @@ function AppTable(props: IProps) {
           </tr>
         </thead>
         <tbody>
-          {blogs.map(item => {
+          {blogs && blogs.length > 0 && blogs.map(item => {
             return (
               <tr key={item.id}>
                 <td>{item.id}</td>
