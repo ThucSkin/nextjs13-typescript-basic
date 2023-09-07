@@ -6,14 +6,9 @@ import AppFooter from "./components/app.footer";
 import Container from "react-bootstrap/Container";
 import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from 'react-toastify';
-import { Metadata } from "next";
+import './globals.css'
 
 const inter = Inter({ subsets: ["latin"] });
-
-export const metadata: Metadata = {
-  title: 'Home',
-  description: 'This is the best',
-}
 
 
 export default function RootLayout({
